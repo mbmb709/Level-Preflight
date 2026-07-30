@@ -1,0 +1,26 @@
+{
+  "geode": "5.8.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "mbmb709.level-preflight",
+  "name": "Level Preflight",
+  "version": "v1.0.0",
+  "developer": "mbmb709",
+  "description": "A clear, local readiness report for creators before they share a level.",
+  "resources": {
+    "sprites": [
+      "resources/*.png"
+    ]
+  },
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  },
+  "tags": [
+    "editor",
+    "utility"
+  ]
+}
