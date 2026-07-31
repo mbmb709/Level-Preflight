@@ -1,0 +1,9 @@
+build/
+build-*/
+.cache/
+.idea/
+.vscode/
+*.geode
+*.pdb
+*.ilk
+*.user
