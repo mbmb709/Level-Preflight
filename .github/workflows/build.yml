@@ -14,7 +14,7 @@ jobs:
         config:
           - name: Windows
             os: windows-latest
-            cxxflags: /FItype_traits
+            cxxflags: "-include type_traits"
 
           - name: macOS
             os: macos-latest
